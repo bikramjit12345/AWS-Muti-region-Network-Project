@@ -1,0 +1,10 @@
+vpc_cidr_us        = "10.0.0.0/16"
+vpc_cidr_eu        = "10.1.0.0/16"
+vpc_us_pub_subnets = ["10.0.1.0/24", "10.0.2.0/24"]
+vpc_eu_pub_subnets = ["10.1.1.0/24", "10.1.2.0/24"]
+vpc_us_pvt_subnets = ["10.0.3.0/24", "10.0.4.0/24"]
+vpc_eu_pvt_subnets = ["10.1.3.0/24", "10.1.4.0/24"]
+vpc_us_fw_subnets  = ["10.0.5.0/24", "10.0.6.0/24"]
+vpc_eu_fw_subnets  = ["10.1.5.0/24", "10.1.6.0/24"]
+key_name           = "key1"
+key_name_eu        = "key_eu"
