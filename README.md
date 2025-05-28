@@ -1,7 +1,7 @@
-🧱 Project Overview
+ Project Overview
 This project demonstrates how to build a multi-region, fault-tolerant AWS infrastructure using Terraform. The infrastructure spans two AWS regions and establishes secure and efficient communication between them using Transit Gateway Peering, Network Firewall, Application Load Balancers (ALBs), and EC2 instances in private subnets.
 
-🛠️ Key Components
+Key Components
 Multi-Region VPC Architecture
 Each region hosts its own isolated VPC, subnets, NAT gateways, route tables, and associated resources.
 
