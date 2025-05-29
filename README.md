@@ -20,3 +20,6 @@ Deployed in private subnets and securely connected via TGW, these simulate app s
 Terraform Modular Design
 The entire infrastructure is modularized for reusability and scalability using clean, production-ready Terraform code.
 
+
+
+![image](https://github.com/user-attachments/assets/5bbbaafe-b519-4654-ac5f-9ea3588d3474)
